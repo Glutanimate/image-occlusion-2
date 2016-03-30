@@ -2,7 +2,9 @@
 
 This a fork of the Image Occlusion 2 add-on by tmbb with a few new features.
 
-**What's new in this fork**
+**Status**: Development on this fork has been suspended in favor of [Image Occlusion 2 Enhanced](https://github.com/Glutanimate/image-occlusion-2-enhanced).
+
+### What's new in this fork
 
 - Enhancements to the SVG-Editor
     + automatically fit images to the canvas
